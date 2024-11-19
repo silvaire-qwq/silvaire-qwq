@@ -1,4 +1,5 @@
 <h3 align="center">
+<img src="https://gcore.jsdelivr.net/gh/silvaire-qwq/silvaire-qwq@new/avatar.png" height="100" width="0px"/>
 <img src="https://gcore.jsdelivr.net/gh/silvaire-qwq/silvaire-qwq@cdn2/transparent.png" height="30" width="0px"/>
 Hi, I'm silvaire_qwq 👋
 </h3>
