@@ -1,3 +1,10 @@
+### - 😨 你是来认识我的吗
+你好，我是 Silvaire。<br>
+我是一名 ESFP 学生，现居住于天津市。<br>
+(梦想是香港大学！)<br>
+
+&nbsp;
+
 ### - 📖 下了功夫的仓库
 - [dots-v2](https://github.com/silvaire-qwq/dots-v2)
 - [website](https://github.com/silvaire-qwq/Website)
