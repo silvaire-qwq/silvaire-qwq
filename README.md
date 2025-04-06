@@ -1,3 +1,9 @@
+### - 📖 下了功夫的仓库
+- [dots-v2](https://github.com/silvaire-qwq/dots-v2)
+- [website](https://github.com/silvaire-qwq/Website)
+
+&nbsp;
+
 ### - 🔭 系统与编程语言
 - ```Arch Linux``` 用户
 - ```Shell``` 脚本 ~~其实学都是为了让自己更懒啦~~
