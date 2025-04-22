@@ -8,6 +8,7 @@
 ### - 📖 下了功夫的仓库
 - [Configs](https://github.com/silvaire-qwq/Configs)
 - [Website](https://github.com/silvaire-qwq/Website)
+- [Catpic](https://github.com/silvaire-qwq/catpic)
 
 &nbsp;
 
