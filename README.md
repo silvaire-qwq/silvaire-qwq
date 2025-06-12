@@ -1,11 +1,11 @@
-### - 😨 你是来认识我的吗
+### - 😨 你好
 你好，我是 Silvaire。<br>
-我是一名 ESFP 学生，现居住于天津市。<br>
+我是一名 ISFP 学生，现居住于天津市河东区。<br>
 (梦想是香港大学！)<br>
 
 &nbsp;
 
-### - 📖 下了功夫的仓库
+### - 📖 仓库
 - [Configs](https://github.com/silvaire-qwq/Configs)
 - [Website](https://github.com/silvaire-qwq/Website)
 - [Catpic](https://github.com/silvaire-qwq/catpic)
