@@ -8,7 +8,6 @@ typeset -gA silvaire=(
   pl          'shell,html,css'
   game        'minecraft'
   website     'https://lunars.site'
-  qq          '3624285658'
   email       'silvaire_qwq@outlook.com'
 )
 ```
