@@ -1,6 +1,6 @@
 <h3 align="center">
 
-<img src="https://jsd-proxy.ygxz.in/gh/SAWARATSUKI/KawaiiLogos@main/GitHub/GitHub.png" width="500"/>
+<img src="https://jsd-proxy.ygxz.in/gh/SAWARATSUKI/KawaiiLogos@main/GitHub/GitHub.png" width="400"/>
 
 It's Silvaire!!!!!
 </h3>
